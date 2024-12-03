@@ -1,0 +1,15 @@
+table,tr,th,td{
+	border: 2px solid black;
+	
+}
+table{
+	border-collapse: collapse;
+}
+a{
+	text-decoration: none;
+}
+.container{
+	display: flex;
+	margin: auto;
+	margin-top: 200px;
+}
